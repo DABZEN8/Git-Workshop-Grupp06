@@ -3,6 +3,4 @@ Hej på er, ha en trevlig kväll.
 Hej / Goran
 
 
-Hej hej //Marina
-
-Yo. Yo2
+Hej hej!! kl är 16.40
