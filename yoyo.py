@@ -3,3 +3,6 @@ def hello():
 
 def cfood():
     print("h")
+
+def drink():
+    print("varm choklad")

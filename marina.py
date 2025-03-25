@@ -3,7 +3,6 @@ def hello():
    
    
 def drink():
-   
    print('Pepsi')   
     
        
