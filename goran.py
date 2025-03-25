@@ -1,0 +1,1 @@
+print("Varför ska man göra 38 steg för varje lite grej?")
