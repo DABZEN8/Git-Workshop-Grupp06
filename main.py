@@ -3,21 +3,21 @@ import marina
 import yoyo
 import sandie
 
-name = input('Vad är ditt namn?' )
+name = input('Vad är din favoritdricka?' )
 
-print(f'Hej {name}')
+print('Hej!')
 
 if name == "Goran":
-    goran.hello()
+    goran.drink()
 
 elif name == "Marina":
-    marina.hello()
+    marina.drink()
 
 elif name == "Chabbe":
-    yoyo.hello()
+    yoyo.drink()
 
 elif name == "Sandie":
-    sandie.hello()
+    sandie.drink()
 
-    #kommentar
+#kommentar
     
