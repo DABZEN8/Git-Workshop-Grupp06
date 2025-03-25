@@ -13,7 +13,7 @@ if name == "Goran":
 elif name == "Marina":
     marina.hello()
 
-elif name == "Yoyo":
+elif name == "Chabbe":
     yoyo.hello
 
 elif name == "Sandie":
