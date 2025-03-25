@@ -14,7 +14,7 @@ elif name == "Marina":
     marina.hello()
 
 elif name == "Chabbe":
-    yoyo.hello
+    yoyo.hello()
 
 elif name == "Sandie":
     sandie.hello()
